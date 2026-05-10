@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>HotelBooking.Contracts</RootNamespace>
+  </PropertyGroup>
+
+</Project>
