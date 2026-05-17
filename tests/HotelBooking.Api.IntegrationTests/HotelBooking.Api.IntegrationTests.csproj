@@ -16,7 +16,7 @@
     <PackageReference Include="NSubstitute" />
     <PackageReference Include="Testcontainers.MsSql" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" />
-    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.11.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" />
   </ItemGroup>
 
 </Project>
